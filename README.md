@@ -1,5 +1,8 @@
 # Simple-FPGA-project
 FPGA VGA project
 
-https://github.com/user-attachments/assets/d724b94f-7e93-4db3-a03c-3363099ff988
+
+https://github.com/user-attachments/assets/eee9cc7c-5e5b-4d9c-b0ad-4bddf9b29b36
+
+
 
